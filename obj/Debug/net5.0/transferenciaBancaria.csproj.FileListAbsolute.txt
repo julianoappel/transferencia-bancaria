@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.exe
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.deps.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.runtimeconfig.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.runtimeconfig.dev.json
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\ref\transferenciaBancaria.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.pdb
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.AssemblyInfo.cs
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\ref\transferenciaBancaria.dll
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.pdb
+C:\Users\usuario\Documents\JulianoAppel\DEV\projetos.CSharp\bootcampsDIO\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.genruntimeconfig.cache
